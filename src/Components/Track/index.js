@@ -16,7 +16,10 @@ export default function Track() {
   return (
     <section className={styles.main}>
       <div className={styles.main__iconContainer}>
-        <img src="/images/2.png" alt="keep-track-icon" />
+        <img
+          src={process.env.PUBLIC_URL + "/images/2.png"}
+          alt="keep-track-icon"
+        />
         <p className={styles.main__iconContainer__keepTrackText}>
           {t("track.keepTrackText")}
         </p>

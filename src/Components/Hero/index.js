@@ -26,7 +26,7 @@ export default function Hero() {
       </div>
       <span className={styles.main__span}>{t("hero.discover")}</span>
       <img
-        src="/images/1.png"
+        src={process.env.PUBLIC_URL + "/images/1.png"}
         alt="hero-manage-icon"
         className={styles.main__yonetIcon}
       />
