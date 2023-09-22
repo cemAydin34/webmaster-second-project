@@ -1,0 +1,133 @@
+{
+  "header": {
+    "logo": "Salonium",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "part1": "Uzmanların.",
+    "part2": "Tercihi.",
+    "description": "Salonium ile salonunuzu online ortama taşıyın. Salonunuzun tüm işlemlerini tek bir platform üzerinden yönetin.",
+    "startBtn": "Hemen Başlayın",
+    "demoBtn": "Demo Edinin",
+    "discover": "Solanium'u Keşfet",
+    "yonetText": "Yönet"
+  },
+
+  "manage": {
+    "titles": [
+      "Salonunuzu Yönetin.",
+      "Salonunuzu Yönetin.",
+      "Salonunuzu Yönetin.",
+      "Salonunuzu Yönetin."
+    ],
+    "cardInformation": [
+      {
+        "title": "Salonunuzu Uzaktan Yönetin.",
+        "text": "Salonunuzun tüm işlemlerini tek bir platformdan yönetin. Randevuları ayarlayın, müşteri verilerini saklayın ve hizmetlerinizi optimize edin. İster evde olun, ister yolda, salonunuz her zaman kontrolünüz altında.",
+        "button": "Hemen Başlayın",
+        "tag": "Daha Fazla Bilgi",
+        "features": [
+          "Uzaktan yönetim",
+          "Randevu ayarlama",
+          "Müşteri verileri saklama",
+          "Hizmet optimizasyonu"
+        ]
+      },
+      {
+        "title": "İşletmenize değer katın.",
+        "text": "Müşteri memnuniyetini artırın ve işletmenizin verimliliğini yükseltin. Teknolojiyi kullanarak iş süreçlerinizi basitleştirin ve işletmenizin büyümesine yardımcı olun.",
+        "button": "Demo Edinin",
+        "tag": "Daha Fazla Bilgi",
+        "features": [
+          "Müşteri memnuniyeti artırma",
+          "Verimlilik yükseltme",
+          "İş süreçlerini basitleştirme",
+          "İşletme büyümesi"
+        ]
+      },
+      {
+        "title": "Randevularınızı yönetin.",
+        "text": "Randevu sürecini kolaylaştırın ve otomatikleştirin. Müşterilerinizin çevrimiçi olarak randevu almasını sağlayın ve personelinizin programını düzenleyin.",
+        "button": "Fiyat Edinin",
+        "tag": "Daha Fazla Bilgi",
+        "features": [
+          "Randevu sürecini kolaylaştırma",
+          "Çevrimiçi randevu alma",
+          "Personel programını düzenleme",
+          "Daha fazla müşteriye hizmet"
+        ]
+      }
+    ]
+  },
+  "track": {
+    "keepTrackText": "Takip Et",
+    "title": "Gelir ve Giderlerinizi Takip Edin",
+    "description": "Gelir ve giderlerinizi takip ederek, nereye ne kadar harcadığınızı görün. Bütçenizi oluşturun ve harcamalarınızı buna göre yapın. İstediğiniz zaman bütçenizi güncelleyin. İşletmenizin finansal durumunu kontrol edin.",
+    "list": {
+      "item1": "Gelir ve giderlerinizi takip edin",
+      "item2": "Bütçenizi oluşturun ve güncelleyin",
+      "item3": "İşletmenizin finansal durumunu kontrol edin",
+      "item4": "Harcamalarınızı düzenleyin",
+      "item5": "Gelirlerinizi artırın",
+      "item6": "İşletmenizin büyümesini izleyin"
+    },
+    "part1": "Salonium",
+    "part2": "Nasıl Çalışır?"
+  },
+  "footer": {
+    "columns": [
+      {
+        "title": "Hakkımızda",
+        "links": [
+          { "text": "Salonium Hakkında", "href": "#" },
+          { "text": "Bize Ulaşın", "href": "#" },
+          { "text": "Hizmet Koşulları", "href": "#" },
+          { "text": "Gizlilik Politikası", "href": "#" },
+          { "text": "Sıkça Sorulan Sorular", "href": "#" },
+          { "text": "Kariyer", "href": "#" }
+        ]
+      },
+      {
+        "title": "Hizmetler",
+        "links": [
+          { "text": "Online Rezervasyon", "href": "#" },
+          { "text": "Randevu Yönetimi", "href": "#" },
+          { "text": "Müşteri Desteği", "href": "#" },
+          { "text": "İş Çözümleri", "href": "#" },
+          { "text": "Salon Pazarlama", "href": "#" },
+          { "text": "Ödemeler", "href": "#" },
+          { "text": "Analizler", "href": "#" }
+        ]
+      },
+      {
+        "title": "Kaynaklar",
+        "links": [
+          { "text": "Blog", "href": "#" },
+          { "text": "Müşteri Hikayeleri", "href": "#" },
+          { "text": "Yardım Merkezi", "href": "#" },
+          { "text": "İndirmeler", "href": "#" },
+          { "text": "Video Eğitimleri", "href": "#" },
+          { "text": "Webinarlar", "href": "#" },
+          { "text": "Geliştirici API'si", "href": "#" }
+        ]
+      }
+    ],
+    "newsletter": {
+      "title": "Bültenimize Abone Olun",
+      "description": "Salonium'dan yeni özellikler ve güncellemeler hakkında bilgi almak için bültenimize abone olun.",
+      "input": "E-posta Adresi",
+      "button": "Abone Ol"
+    }
+  },
+  "contact": {
+    "sectionTitle": "Bize Ulaşın",
+    "sectionDescription": "Herhangi bir sorunuz var mı? Lütfen doğrudan bizimle iletişime geçmekten çekinmeyin. Ekibimiz, size yardımcı olmak için birkaç saat içinde geri dönecektir.",
+    "nameLabel": "Adınız",
+    "emailLabel": "E-posta adresiniz",
+    "subjectLabel": "Konu",
+    "messageLabel": "Mesajınız",
+    "sendButton": "Gönder",
+    "address": "San Francisco, CA 94126, ABD",
+    "phoneNumber": "+ 01 234 567 89"
+  }
+}

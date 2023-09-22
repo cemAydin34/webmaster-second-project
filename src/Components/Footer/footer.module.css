@@ -1,0 +1,85 @@
+.footer {
+  padding: 0 1em;
+  max-width: 1440px;
+  margin-inline: auto;
+  margin-bottom: 30px;
+}
+
+.footer__container {
+  padding: 0;
+}
+
+.footer__container h2 {
+  color: #fff;
+  font-size: 18px;
+}
+
+.footer__container a {
+  color: rgb(255, 255, 255, 0.5);
+  text-decoration: none;
+  display: block;
+  margin-bottom: 1em;
+  transition: all 0.3s ease-in-out;
+}
+
+.footer__container p {
+  color: rgb(255, 255, 255, 0.5);
+  margin-top: 0;
+}
+
+.footer__container a:hover {
+  color: #fff;
+}
+
+.footer__inputContainer__input {
+  border: 1px solid white;
+  padding: 1em;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 50px;
+}
+
+.footer__inputContainer input {
+  border-style: none;
+  outline: none;
+  background: transparent;
+  width: 120px;
+  color: rgb(255, 255, 255, 0.5);
+}
+
+.footer__inputContainer button {
+  position: relative;
+  border-radius: 26px;
+  padding: 1em;
+  width: 120px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  color: white;
+  font-weight: 600;
+  font-size: 14px;
+  border-style: none;
+}
+
+.footer__inputContainer button::before {
+  content: "";
+  position: absolute;
+  top: -2px;
+  right: -2px;
+  bottom: -2px;
+  left: -2px;
+  background: linear-gradient(90deg, #ff4d4d, #f9cb28);
+  border-radius: inherit;
+  z-index: -1;
+}
+
+@media (max-width: 768px) {
+  .footer__container {
+    text-align: center;
+  }
+  .footer__container h2 {
+    margin-top: 1em;
+  }
+}

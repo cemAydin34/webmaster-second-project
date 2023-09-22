@@ -1,0 +1,33 @@
+.section {
+  margin: 60px 0 120px 0;
+  padding: 0 1em;
+  max-width: 1440px;
+  margin-inline: auto;
+}
+
+.section h2,
+.section label {
+  color: rgb(255, 255, 255, 0.7);
+}
+
+.section p {
+  color: rgb(255, 255, 255, 0.5);
+}
+
+.section input,
+.section textarea {
+  background: transparent;
+  outline: none;
+  border-style: none;
+  border-bottom: 1px solid white;
+  border-radius: 0;
+  transition: all 0.3s ease-in-out;
+  color: rgb(255, 255, 255, 0.7) !important;
+}
+
+.section input:focus,
+.section textarea:focus {
+  box-shadow: none !important;
+  background-color: transparent !important;
+  border-color: #7ea9ff;
+}

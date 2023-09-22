@@ -1,0 +1,29 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1440px;
+  margin-inline: auto;
+  padding: 1em;
+}
+
+.header__logo,
+.header__contact {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.header__languageSelect {
+  background-color: #000;
+  border-style: none;
+  outline: none;
+  color: #fff;
+  padding: 5px;
+  padding-top: 0;
+  cursor: pointer;
+  font-size: 20px;
+  margin-bottom: 1rem;
+  font-weight: 600;
+}

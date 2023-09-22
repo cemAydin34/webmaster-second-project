@@ -1,0 +1,132 @@
+{
+  "header": {
+    "logo": "Salonium",
+    "contact": "Contact"
+  },
+  "hero": {
+    "part1": "Experts.",
+    "part2": "Choice.",
+    "description": "Take your salon online with Salonium. Manage all your salon's operations from a single platform.",
+    "startBtn": "Get Started Now",
+    "demoBtn": "Try Demo",
+    "discover": "Discover Solanium",
+    "yonetText": "Manage"
+  },
+  "manage": {
+    "titles": [
+      "Manage Your Salon.",
+      "Manage Your Salon.",
+      "Manage Your Salon.",
+      "Manage Your Salon."
+    ],
+    "cardInformation": [
+      {
+        "title": "Manage Your Salon Remotely.",
+        "text": "Manage all your salon operations from a single platform. Schedule appointments, store customer data, and optimize your services. Whether you're at home or on the go, your salon is always under your control.",
+        "button": "Get Started Now",
+        "tag": "More Information",
+        "features": [
+          "Remote management",
+          "Appointment scheduling",
+          "Store customer data",
+          "Service optimization"
+        ]
+      },
+      {
+        "title": "Add Value to Your Business.",
+        "text": "Increase customer satisfaction and boost your business efficiency. Simplify your business processes using technology and contribute to the growth of your business.",
+        "button": "Try Demo",
+        "tag": "More Information",
+        "features": [
+          "Increase customer satisfaction",
+          "Boost efficiency",
+          "Simplify business processes",
+          "Business growth"
+        ]
+      },
+      {
+        "title": "Manage Your Appointments.",
+        "text": "Simplify and automate the appointment process. Allow your customers to book appointments online and manage your staff's schedules.",
+        "button": "Get Pricing",
+        "tag": "More Information",
+        "features": [
+          "Simplify appointment process",
+          "Online appointment booking",
+          "Staff schedule management",
+          "Serve more customers"
+        ]
+      }
+    ]
+  },
+  "track": {
+    "keepTrackText": "Keep Track",
+    "title": "Track Your Income and Expenses",
+    "description": "Track your income and expenses to see where you're spending your money. Create and update your budget and keep your business finances in check.",
+    "list": {
+      "item1": "Track your income and expenses",
+      "item2": "Create and update your budget",
+      "item3": "Monitor your business's financial health",
+      "item4": "Organize your expenses",
+      "item5": "Increase your income",
+      "item6": "Track your business growth"
+    },
+    "part1": "Salonium",
+    "part2": "How It Works?"
+  },
+  "footer": {
+    "columns": [
+      {
+        "title": "About Us",
+        "links": [
+          { "text": "About Salonium", "href": "#" },
+          { "text": "Contact Us", "href": "#" },
+          { "text": "Terms of Service", "href": "#" },
+          { "text": "Privacy Policy", "href": "#" },
+          { "text": "FAQs", "href": "#" },
+          { "text": "Careers", "href": "#" }
+        ]
+      },
+      {
+        "title": "Services",
+        "links": [
+          { "text": "Online Booking", "href": "#" },
+          { "text": "Appointment Management", "href": "#" },
+          { "text": "Customer Support", "href": "#" },
+          { "text": "Business Solutions", "href": "#" },
+          { "text": "Salon Marketing", "href": "#" },
+          { "text": "Payments", "href": "#" },
+          { "text": "Analytics", "href": "#" }
+        ]
+      },
+      {
+        "title": "Resources",
+        "links": [
+          { "text": "Blog", "href": "#" },
+          { "text": "Customer Stories", "href": "#" },
+          { "text": "Help Center", "href": "#" },
+          { "text": "Downloads", "href": "#" },
+          { "text": "Video Tutorials", "href": "#" },
+          { "text": "Webinars", "href": "#" },
+          { "text": "Developer API", "href": "#" }
+        ]
+      }
+    ],
+    "newsletter": {
+      "title": "Subscribe to Our Newsletter",
+      "description": "Subscribe to our newsletter to get the latest news and updates about Salonium.",
+      "inputPlaceholder": "Enter your email address",
+      "button": "Subscribe"
+    }
+  },
+  "contact": {
+    "sectionTitle": "Contact us",
+    "sectionDescription": "Do you have any questions? Please do not hesitate to contact us directly. Our team will come back to you within a matter of hours to help you.",
+    "nameLabel": "Your name",
+    "emailLabel": "Your email",
+    "subjectLabel": "Subject",
+    "messageLabel": "Your message",
+    "sendButton": "Send",
+    "address": "San Francisco, CA 94126, USA",
+    "phoneNumber": "+ 01 234 567 89"
+  }
+}
