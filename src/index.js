@@ -22,19 +22,15 @@ i18n
     debug: true,
   });
 
-fetch("http://ip-api.com/json")
-  .then((response) => response.json())
-  .then((data) => {
-    const countryCode = data.countryCode.toLowerCase();
-    const supportedLanguages = ["en", "tr"];
+const browserLanguage = navigator.language || navigator.userLanguage;
+const countryCode = browserLanguage.slice(0, 2).toLowerCase();
+const supportedLanguages = ["en", "tr"];
 
-    if (supportedLanguages.includes(countryCode)) {
-      i18n.changeLanguage(countryCode);
-    }
-  })
-  .catch(() => {
-    console.log("Error occurred while fetching user location");
-  });
+if (supportedLanguages.includes(countryCode)) {
+  i18n.changeLanguage(countryCode);
+} else {
+  console.log("Unsupported language");
+}
 
 ReactDOM.render(
   <React.StrictMode>
